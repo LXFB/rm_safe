@@ -1,4 +1,4 @@
-RM safe
+rm safe
 =======
 
 Es una modificaciòn que realicè sobre el comando rm.
